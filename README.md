@@ -13,10 +13,10 @@
 ![image](https://github.com/user-attachments/assets/7f238c22-92ab-4653-87fd-313530946dc8)
 
 2) Сверстала страницу профиля согласно макету
-<img src='https://github.com/user-attachments/assets/368b465f-08cf-490b-bffe-5488a65374c9' width=300/>
+<img src='https://github.com/user-attachments/assets/be7af9ac-876d-4a44-a8c7-c36d451a8702' width=300/>
 
 3) Сверстала главную страницу каталога. 
-<img src='https://github.com/user-attachments/assets/f60c7bd2-5280-4ced-a5ad-fcf8d5dbbafc' width=300/>
+<img src='https://github.com/user-attachments/assets/368b465f-08cf-490b-bffe-5488a65374c9' width=300/>
 
 Дополнила количество товаров в каталоге до 7.
 
