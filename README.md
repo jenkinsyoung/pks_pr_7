@@ -12,17 +12,26 @@
 2) Сверстала страницу профиля согласно макету
 <img src='https://github.com/user-attachments/assets/6d7888c4-3f8d-4dda-8aef-fe1b82175ac3' width=300/>
 
-4) Сверстала главную страницу каталога. Дополнила количество товаров в каталоге до 7.
+3) Сверстала главную страницу каталога. Дополнила количество товаров в каталоге до 7.
 <img src='' width=300/>
 
 <img src='' width=300/>
 
-6) Сверстала корзину
+4) Сверстала корзину
 Если в корзине нет добавленых товаров, выводится сообщение об отсутствии товаров в корзине.
+
 <img src='' width=300/>
+
+<img src='https://github.com/user-attachments/assets/e7697715-bf79-424d-a06d-385ac94a206c' width=300/>
 
 При увеличении одного товара я реализовала функцию, которая подставляет к числу согласованное наименование
-<img src='' width=300/>
 
-<img src='' width=300/>
+<img src='https://github.com/user-attachments/assets/3a6bff5e-e638-4630-89d9-67e7ea51f0e8' width=300/>
 
+<img src='https://github.com/user-attachments/assets/d76431db-e591-494f-a917-1d279096943a' width=300/>
+
+Также на крестик пользователь может удалить товар из корзины
+
+<img src='https://github.com/user-attachments/assets/4701dac0-419b-4ff6-a111-5b39e493ee10' width=300/>
+
+<img src='https://github.com/user-attachments/assets/f72aee0f-dd05-479b-bd2e-cb5fe7adc2f7' width=300/>
