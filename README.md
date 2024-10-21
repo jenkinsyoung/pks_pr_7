@@ -1,4 +1,4 @@
-# Практическая работа № 7 (Программирование корпоративных систем)
+![image](https://github.com/user-attachments/assets/5d8e5070-cd25-4951-bf4c-63e87832f6b4)# Практическая работа № 7 (Программирование корпоративных систем)
 
 выполнила: **Полошкова Анастасия Юрьевна**
 
@@ -13,32 +13,32 @@
 ![image](https://github.com/user-attachments/assets/7f238c22-92ab-4653-87fd-313530946dc8)
 
 2) Сверстала страницу профиля согласно макету
-<img src='https://github.com/user-attachments/assets/6d7888c4-3f8d-4dda-8aef-fe1b82175ac3' width=300/>
+<img src='https://github.com/user-attachments/assets/368b465f-08cf-490b-bffe-5488a65374c9' width=300/>
 
 3) Сверстала главную страницу каталога. 
 <img src='https://github.com/user-attachments/assets/f60c7bd2-5280-4ced-a5ad-fcf8d5dbbafc' width=300/>
 
 Дополнила количество товаров в каталоге до 7.
 
-<img src='https://github.com/user-attachments/assets/6497237d-95df-458a-ba72-72ef594751c0' width=300/>
+<img src='https://github.com/user-attachments/assets/5804c8bf-c0e9-4cf7-abdf-16a873f6d0be' width=300/>
 
-<img src='https://github.com/user-attachments/assets/fc1678a6-0460-4f07-b617-234a72357997' width=300/>
+<img src='https://github.com/user-attachments/assets/3a55a046-af95-4cc8-bfa1-ab78ad772ece' width=300/>
 
 4) Сверстала корзину
 Если в корзине нет добавленых товаров, выводится сообщение об отсутствии товаров в корзине.
 
-<img src='https://github.com/user-attachments/assets/915cb179-6a26-4aeb-ae3e-b701f33ed4f2' width=300/>
+<img src='https://github.com/user-attachments/assets/df0c1d14-e858-4435-897a-c829b8986411' width=300/>
 
-<img src='https://github.com/user-attachments/assets/e7697715-bf79-424d-a06d-385ac94a206c' width=300/>
+<img src='https://github.com/user-attachments/assets/9797a3bb-cdbb-43bf-9678-c12e8e5c52a1' width=300/>
 
 При увеличении одного товара я реализовала функцию, которая подставляет к числу согласованное наименование
 
-<img src='https://github.com/user-attachments/assets/3a6bff5e-e638-4630-89d9-67e7ea51f0e8' width=300/>
+<img src='https://github.com/user-attachments/assets/b9549d25-a8f0-454c-9f3b-757fcf11eed7' width=300/>
 
-<img src='https://github.com/user-attachments/assets/d76431db-e591-494f-a917-1d279096943a' width=300/>
+<img src='https://github.com/user-attachments/assets/f037618b-fd19-4a4b-bb93-2b385f9234d5' width=300/>
 
 Также на крестик пользователь может удалить товар из корзины
 
-<img src='https://github.com/user-attachments/assets/4701dac0-419b-4ff6-a111-5b39e493ee10' width=300/>
+<img src='https://github.com/user-attachments/assets/c5ab010f-317a-4b70-8dfe-f9d5c0667230' width=300/>
 
-<img src='https://github.com/user-attachments/assets/f72aee0f-dd05-479b-bd2e-cb5fe7adc2f7' width=300/>
+<img src='https://github.com/user-attachments/assets/f3ea0247-2020-41c0-867c-251b9c31ea85' width=300/>
