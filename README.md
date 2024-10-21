@@ -1,16 +1,28 @@
-# pr_7
+# Практическая работа № 7 (Программирование корпоративных систем)
 
-A new Flutter project.
+выполнила: **Полошкова Анастасия Юрьевна**
 
-## Getting Started
+группа: **ЭФБО-01-22**
 
-This project is a starting point for a Flutter application.
+## Описание и этапы выполнения работы
 
-A few resources to get you started if this is your first Flutter project:
+В данной работе необходимо было сверстать каталог медицинских услуг с корзиной и профилем согласно макету в Figma. Реализовать добавление товаров в корзину, их удаление из корзины, увеличение и уменьшение количсетва одного товара в корзине.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1) Импортировала файл в Figma.
+2) Сверстала страницу профиля согласно макету
+<img src='https://github.com/user-attachments/assets/6d7888c4-3f8d-4dda-8aef-fe1b82175ac3' width=300/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4) Сверстала главную страницу каталога. Дополнила количество товаров в каталоге до 7.
+<img src='' width=300/>
+
+<img src='' width=300/>
+
+6) Сверстала корзину
+Если в корзине нет добавленых товаров, выводится сообщение об отсутствии товаров в корзине.
+<img src='' width=300/>
+
+При увеличении одного товара я реализовала функцию, которая подставляет к числу согласованное наименование
+<img src='' width=300/>
+
+<img src='' width=300/>
+
