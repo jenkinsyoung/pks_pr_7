@@ -40,6 +40,7 @@ class _BasketPageState extends State<BasketPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       body: basket.isEmpty ? Padding(
         padding: const EdgeInsets.only(
           top: 48.0,
